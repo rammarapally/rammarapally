@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rammarapally
-- 👀 I’m interested in cloud-computing, AI, Containers and SecDevOps culture.
-- 🌱 I’m currently learning multi-cloud management, full-stack Dev and many more cloud-native technologies.
+- 👀 I’m interested in Data engineering, machine learning and artificial intelligence.
+- 🌱 I’m currently learning AI/ML technologies.
 
 
 <!---
